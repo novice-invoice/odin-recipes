@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first assignment of The Odin Project curriculum. I learned how to fill out the HTML boilerplate, create directories and files, navigate through the Git Bash, and create headers, paragraphs, hyperlinks, ordered lists, unordered lists, and images.
